@@ -72,7 +72,7 @@ html {
 
  }
 
- @media (prefers-color-scheme:dark) {
+ @media (prefers-color-scheme: dark) {
    .banner {
      background-color: black;
    }
