@@ -68,7 +68,19 @@ html {
  @media (prefers-reduced-motion) {
    .gear {
      animation: none;
+   }
+
  }
+
+ @media (prefers-color-scheme:dark) {
+   .banner {
+     background-color: black;
+   }
+
+   .banner h1 {
+     colour: #666;
+   }
+
  }
  */
 
